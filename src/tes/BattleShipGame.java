@@ -48,7 +48,7 @@ public class BattleShipGame {
 
     public void printBoard(Player player) {
         boolean[][] board = player.getBoard();
-        System.out.println("Board for " + player.getName() + ":");
+        System.out.println("Map untuk " + player.getName() + ":");
         System.out.print("  ");
         for (int i = 0; i < board.length; i++) {
             System.out.print(i + " ");
