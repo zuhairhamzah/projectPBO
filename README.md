@@ -2,8 +2,8 @@
 
 ## Anggota Kelompok
 
-Muhammad Zuhair Hamzah - C
-Ananda Fatliah Hamzah - C 
+Muhammad Zuhair Hamzah - C '\n'
+Ananda Fatliah Hamzah - C  '\n'
 Syahrul Rusda - C
 Aqilah - C
 Akbar Fahreza - C
