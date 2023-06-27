@@ -8,4 +8,4 @@ Syahrul Rusda - C
 Aqilah - C
 Akbar Fahreza - C
 
-Progres project ini masih dibawah 60%
+Progres project ini masih dibawah 100%
