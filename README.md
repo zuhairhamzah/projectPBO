@@ -8,4 +8,4 @@ Syahrul Rusda - C
 Aqilah - C
 Akbar Fahreza - C
 
-Progres project ini masih dibawah 100%
+Project GameBattleShip ini telah selesai dan memenuhi capaian wajib maupun opsional
